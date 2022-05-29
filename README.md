@@ -4,7 +4,7 @@
 
 # Project Preview
 
-![]()
+![](https://github.com/asknksk/Google-Landing-Page/blob/master/images/preview.png)
 
 ## Project Link
 
